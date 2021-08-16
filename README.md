@@ -7,7 +7,7 @@ Fortunately this lands all your stuff into the amazon.com/photos/trash folder. U
 
 This little script will help you: 
 
-Copy the contents of restoreAll.js
+Copy the contents of restoreAll.js https://github.com/Steji/AmazonPhotosTrashRestoreAll/blob/main/restoreAll.js
 
 Open the your Amazon trash folder in the browser
 
